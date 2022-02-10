@@ -41,5 +41,5 @@ dotnet test Tests.Unity/{nomeDoProjectTests}.csproj --collect:"XPlat Code Covera
 
 
 
-#Para criação desse conteúdo utilizei como suporte o github de um querido amigo JailtonJunior
+Foi utilizado como fonte o repositório do jailton, porém temos algumas modificações de versão
 https://github.com/JailtonJunior94/dotnet-sonarqube-docker-tests
