@@ -32,7 +32,7 @@ dotnet add package coverlet.collector
 ```
 ## Execução dos testes 
 Dentro da pasta do projeto, executar o seguinte comando: <br>
-OBS: após o comando dotnet test é necessário colocar o caminho do projeto que vamos executar os testes de unidade (unit tests)
+OBS: após o comando dotnet test é necessário colocar o caminho do projeto que vamos executar os testes de unidade (unit tests) (deve ser aplicado para testes feitos em xUnit)
 ```
 dotnet test Tests.Unity/{nomeDoProjectTests}.csproj --collect:"XPlat Code Coverage"
 ```
